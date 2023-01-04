@@ -1,0 +1,8 @@
+.card {
+    background-color: crimson;
+    color: white;
+    padding-block-end: 20px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
